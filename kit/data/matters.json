@@ -1,0 +1,194 @@
+{
+  "exported_at": "2026-11-02T23:00:00+07:00",
+  "source": "practice management system, nightly export (synthetic)",
+  "users": {
+    "u01": {
+      "name": "Anong P.",
+      "role": "partner"
+    },
+    "u02": {
+      "name": "Somchai K.",
+      "role": "associate"
+    },
+    "u03": {
+      "name": "Kanya R.",
+      "role": "senior associate"
+    },
+    "u04": {
+      "name": "Pichai T.",
+      "role": "partner"
+    },
+    "u05": {
+      "name": "Ratana S.",
+      "role": "associate"
+    },
+    "u06": {
+      "name": "Wichai L.",
+      "role": "senior associate"
+    },
+    "u07": {
+      "name": "Malee C.",
+      "role": "partner"
+    },
+    "u08": {
+      "name": "Narong B.",
+      "role": "associate"
+    },
+    "u09": {
+      "name": "Siriporn J.",
+      "role": "associate"
+    },
+    "u10": {
+      "name": "Thanawat M.",
+      "role": "associate"
+    },
+    "u11": {
+      "name": "Duangjai W.",
+      "role": "senior associate"
+    },
+    "u12": {
+      "name": "Prasert N.",
+      "role": "paralegal"
+    }
+  },
+  "matters": {
+    "M-2026-101": {
+      "matter_id": "M-2026-101",
+      "client_id": "C01",
+      "title": "Acquisition of Northern Rice Mills (Project KINGFISHER)",
+      "members": [
+        "u01",
+        "u02",
+        "u03",
+        "u05"
+      ],
+      "walled_off": [
+        "u07",
+        "u08"
+      ],
+      "black_cleared": [
+        "u01"
+      ]
+    },
+    "M-2026-102": {
+      "matter_id": "M-2026-102",
+      "client_id": "C02",
+      "title": "Defence against unsolicited approach; workforce restructuring",
+      "members": [
+        "u07",
+        "u08",
+        "u09",
+        "u03"
+      ],
+      "walled_off": [
+        "u01",
+        "u02",
+        "u03"
+      ],
+      "black_cleared": [
+        "u07"
+      ]
+    },
+    "M-2026-103": {
+      "matter_id": "M-2026-103",
+      "client_id": "C03",
+      "title": "Warehouse lease, Lat Krabang",
+      "members": [
+        "u02",
+        "u06",
+        "u10"
+      ],
+      "walled_off": [],
+      "black_cleared": []
+    },
+    "M-2026-104": {
+      "matter_id": "M-2026-104",
+      "client_id": "C03",
+      "title": "Customs penalty appeal",
+      "members": [
+        "u06",
+        "u10",
+        "u11"
+      ],
+      "walled_off": [],
+      "black_cleared": [
+        "u06"
+      ]
+    },
+    "M-2026-105": {
+      "matter_id": "M-2026-105",
+      "client_id": "C05",
+      "title": "Patient data breach response",
+      "members": [
+        "u04",
+        "u05",
+        "u11"
+      ],
+      "walled_off": [],
+      "black_cleared": [
+        "u04"
+      ]
+    },
+    "M-2026-106": {
+      "matter_id": "M-2026-106",
+      "client_id": "C05",
+      "title": "Clinic acquisition due diligence",
+      "members": [
+        "u04",
+        "u12"
+      ],
+      "walled_off": [],
+      "black_cleared": [
+        "u04"
+      ]
+    },
+    "M-2026-107": {
+      "matter_id": "M-2026-107",
+      "client_id": "C04",
+      "title": "Hotel management agreement dispute",
+      "members": [
+        "u03",
+        "u09",
+        "u12"
+      ],
+      "walled_off": [],
+      "black_cleared": [
+        "u03"
+      ]
+    },
+    "M-2026-108": {
+      "matter_id": "M-2026-108",
+      "client_id": "C06",
+      "title": "Fishing licence revocation appeal",
+      "members": [
+        "u09",
+        "u11"
+      ],
+      "walled_off": [],
+      "black_cleared": []
+    },
+    "M-2026-109": {
+      "matter_id": "M-2026-109",
+      "client_id": "C01",
+      "title": "Polymer plant environmental permit renewal",
+      "members": [
+        "u02",
+        "u05",
+        "u10"
+      ],
+      "walled_off": [],
+      "black_cleared": []
+    },
+    "M-2026-110": {
+      "matter_id": "M-2026-110",
+      "client_id": "C02",
+      "title": "Rice export contract arbitration",
+      "members": [
+        "u08",
+        "u09"
+      ],
+      "walled_off": [],
+      "black_cleared": []
+    }
+  }
+}

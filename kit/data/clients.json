@@ -1,0 +1,26 @@
+{
+  "C01": {
+    "name": "Siam Polymer Co., Ltd. (fictional)",
+    "ai_use": "permitted"
+  },
+  "C02": {
+    "name": "Northern Rice Mills PCL (fictional)",
+    "ai_use": "permitted"
+  },
+  "C03": {
+    "name": "Chao Phraya Logistics Co., Ltd. (fictional)",
+    "ai_use": "permitted"
+  },
+  "C04": {
+    "name": "Lanna Boutique Hotels Co., Ltd. (fictional)",
+    "ai_use": "permitted"
+  },
+  "C05": {
+    "name": "Riverside Medical Group Co., Ltd. (fictional)",
+    "ai_use": "permitted"
+  },
+  "C06": {
+    "name": "Andaman Fisheries Co., Ltd. (fictional)",
+    "ai_use": "prohibited"
+  }
+}

@@ -1,0 +1,248 @@
+[
+  {
+    "doc_id": "M101-D01",
+    "matter_id": "M-2026-101",
+    "client_id": "C01",
+    "title": "Share purchase agreement, draft 3"
+  },
+  {
+    "doc_id": "M101-D02",
+    "matter_id": "M-2026-101",
+    "client_id": "C01",
+    "title": "Due diligence report, legal"
+  },
+  {
+    "doc_id": "M101-D03",
+    "matter_id": "M-2026-101",
+    "client_id": "C01",
+    "title": "Board briefing on purchase price"
+  },
+  {
+    "doc_id": "M101-D04",
+    "matter_id": "M-2026-101",
+    "client_id": "C01",
+    "title": "Tender offer timetable"
+  },
+  {
+    "doc_id": "M101-D05",
+    "matter_id": "M-2026-101",
+    "client_id": "C01",
+    "title": "Fee proposal and partner economics",
+    "restricted_to": [
+      "u01"
+    ]
+  },
+  {
+    "doc_id": "M101-D06",
+    "matter_id": "M-2026-101",
+    "client_id": "C01",
+    "title": "Financing term sheet summary"
+  },
+  {
+    "doc_id": "M101-D07",
+    "matter_id": "M-2026-101",
+    "client_id": "C01",
+    "title": "Key employee retention list with health notes"
+  },
+  {
+    "doc_id": "M102-D01",
+    "matter_id": "M-2026-102",
+    "client_id": "C02",
+    "title": "Defence options memo"
+  },
+  {
+    "doc_id": "M102-D02",
+    "matter_id": "M-2026-102",
+    "client_id": "C02",
+    "title": "Restructuring plan and severance model"
+  },
+  {
+    "doc_id": "M102-D03",
+    "matter_id": "M-2026-102",
+    "client_id": "C02",
+    "title": "Board minutes extract on the approach"
+  },
+  {
+    "doc_id": "M102-D04",
+    "matter_id": "M-2026-102",
+    "client_id": "C02",
+    "title": "HR investigation file: employees on medical leave"
+  },
+  {
+    "doc_id": "M102-D05",
+    "matter_id": "M-2026-102",
+    "client_id": "C02",
+    "title": "Union consultation correspondence"
+  },
+  {
+    "doc_id": "M103-D01",
+    "matter_id": "M-2026-103",
+    "client_id": "C03",
+    "title": "Lease agreement, draft 2"
+  },
+  {
+    "doc_id": "M103-D02",
+    "matter_id": "M-2026-103",
+    "client_id": "C03",
+    "title": "Land office registration checklist"
+  },
+  {
+    "doc_id": "M103-D03",
+    "matter_id": "M-2026-103",
+    "client_id": "C03",
+    "title": "Negotiation notes with landlord"
+  },
+  {
+    "doc_id": "M103-D04",
+    "matter_id": "M-2026-103",
+    "client_id": "C03",
+    "title": "Mailroom scans, not yet classified"
+  },
+  {
+    "doc_id": "M104-D01",
+    "matter_id": "M-2026-104",
+    "client_id": "C03",
+    "title": "Notice of assessment and appeal grounds"
+  },
+  {
+    "doc_id": "M104-D02",
+    "matter_id": "M-2026-104",
+    "client_id": "C03",
+    "title": "Broker agreement review"
+  },
+  {
+    "doc_id": "M104-D03",
+    "matter_id": "M-2026-104",
+    "client_id": "C03",
+    "title": "Tariff classification analysis"
+  },
+  {
+    "doc_id": "M105-D01",
+    "matter_id": "M-2026-105",
+    "client_id": "C05",
+    "title": "Breach notification draft to the regulator"
+  },
+  {
+    "doc_id": "M105-D02",
+    "matter_id": "M-2026-105",
+    "client_id": "C05",
+    "title": "Forensic report summary"
+  },
+  {
+    "doc_id": "M105-D03",
+    "matter_id": "M-2026-105",
+    "client_id": "C05",
+    "title": "Scanned patient correspondence (OCR)"
+  },
+  {
+    "doc_id": "M105-D04",
+    "matter_id": "M-2026-105",
+    "client_id": "C05",
+    "title": "Incident timeline"
+  },
+  {
+    "doc_id": "M105-D05",
+    "matter_id": "M-2026-105",
+    "client_id": "C05",
+    "title": "Insurer notification letter"
+  },
+  {
+    "doc_id": "M106-D01",
+    "matter_id": "M-2026-106",
+    "client_id": "C05",
+    "title": "Clinic patient list extract"
+  },
+  {
+    "doc_id": "M106-D02",
+    "matter_id": "M-2026-106",
+    "client_id": "C05",
+    "title": "Licence transfer analysis"
+  },
+  {
+    "doc_id": "M106-D03",
+    "matter_id": "M-2026-106",
+    "client_id": "C05",
+    "title": "Due diligence request list"
+  },
+  {
+    "doc_id": "M107-D01",
+    "matter_id": "M-2026-107",
+    "client_id": "C04",
+    "title": "Hotel management agreement review"
+  },
+  {
+    "doc_id": "M107-D02",
+    "matter_id": "M-2026-107",
+    "client_id": "C04",
+    "title": "Settlement authority memo",
+    "restricted_to": [
+      "u03"
+    ]
+  },
+  {
+    "doc_id": "M107-D03",
+    "matter_id": "M-2026-107",
+    "client_id": "C04",
+    "title": "Performance test calculations"
+  },
+  {
+    "doc_id": "M107-D04",
+    "matter_id": "M-2026-107",
+    "client_id": "C04",
+    "title": "Notice of dispute"
+  },
+  {
+    "doc_id": "M108-D01",
+    "matter_id": "M-2026-108",
+    "client_id": "C06",
+    "title": "Revocation notice analysis"
+  },
+  {
+    "doc_id": "M108-D02",
+    "matter_id": "M-2026-108",
+    "client_id": "C06",
+    "title": "Vessel monitoring data review"
+  },
+  {
+    "doc_id": "M108-D03",
+    "matter_id": "M-2026-108",
+    "client_id": "C06",
+    "title": "Appeal submission draft"
+  },
+  {
+    "doc_id": "M109-D01",
+    "matter_id": "M-2026-109",
+    "client_id": "C01",
+    "title": "Permit renewal checklist"
+  },
+  {
+    "doc_id": "M109-D02",
+    "matter_id": "M-2026-109",
+    "client_id": "C01",
+    "title": "Monitoring report review"
+  },
+  {
+    "doc_id": "M109-D03",
+    "matter_id": "M-2026-109",
+    "client_id": "C01",
+    "title": "Corrective action plan draft"
+  },
+  {
+    "doc_id": "M110-D01",
+    "matter_id": "M-2026-110",
+    "client_id": "C02",
+    "title": "Statement of claim draft"
+  },
+  {
+    "doc_id": "M110-D02",
+    "matter_id": "M-2026-110",
+    "client_id": "C02",
+    "title": "Inspection certificate analysis"
+  },
+  {
+    "doc_id": "M110-D03",
+    "matter_id": "M-2026-110",
+    "client_id": "C02",
+    "title": "Purchase price and damages model"
+  }
+]
